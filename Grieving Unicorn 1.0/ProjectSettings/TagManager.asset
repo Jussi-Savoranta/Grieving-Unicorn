@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GraveFlower
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Bg items
+    uniqueID: 451143709
+    locked: 0
+  - name: Grounds
+    uniqueID: 997151503
+    locked: 0
+  - name: Fg Items
+    uniqueID: 559280897
+    locked: 0
+  - name: Player
+    uniqueID: 698135469
+    locked: 0
+  - name: Foreground
+    uniqueID: 1312103133
+    locked: 0
